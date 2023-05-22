@@ -133,6 +133,10 @@ blockquote{
         grid-column: span 2;
     }
 
+    .card:nth-of-type(4){
+        grid-column: span 2;
+    }
+
     .card:nth-of-type(5){
         grid-column-start: 4;
         grid-row-start: 1;
