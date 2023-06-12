@@ -11,16 +11,19 @@ This is my solution to the Testimonials Grid Section challenge on Frontend Mento
 
 The challenge was to create a responsive testimonials grid section that displays testimonials from different users. The layout needed to adapt to different screen sizes.
 
+## Demo
+[Live Demo](https://ratified.github.io/Testimonials-Grid-Section/)
+
 
 ## I built this project using the following technologies:
 
-Semantic HTML5 markup
+- Semantic HTML5 markup
 
-CSS custom properties
+- CSS custom properties
 
-Flexbox
+- Flexbox
 
-CSS Grid
+- CSS Grid
 
 ## What I Learned
 During this project, I gained experience in creating responsive grid layouts using CSS Grid. I also practiced using flexbox to align and position elements within the grid. Additionally, I improved my understanding of semantic HTML markup.
